@@ -10,6 +10,7 @@
 #   "scikit-learn",
 #   "requests",
 #   "ipykernel",  # Added ipykernel
+    "chardet",
 # ]
 # ///
 
